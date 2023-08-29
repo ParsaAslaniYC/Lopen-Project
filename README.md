@@ -1,17 +1,17 @@
-# ArduflipperOne
-Arduflipper is an Arduino based Flipper device , nothing else !
+# LopenProject Beta
+LopenProject is an Arduino based Flipper device , nothing else !
 i made this because i see many people like the functions of the Flipperzero ,
 mostly opening a tesla charge port , and the RF cloning function for simple RF device's .
 
 ![IMG_20221225_15362634r5](https://user-images.githubusercontent.com/20719445/210774538-07f84027-da5c-4b93-aead-fa06398cc496.jpg)
 
-so for now its called Arduflipper One because whe have one function at the moment , 
+so for now its called LopenProject One because whe have one function at the moment , 
 already added the support for BadUSB , and IR blaster , ( NOT ENOUGH SPACE inside the Arduino Nano and Uno )
 so for now have fun opening tesla charge ports and clone your RF remote and transmit .
 Have Fun , i wil update when i can 
 
 
-ArduFlipper one v1.01 Beta
+LopenProject v1.01 Beta
 
 it wil store 2 keys in eeprom after recieved one or 2 .
 third key wil replace the first key again onley 2 keys max fit in storage
@@ -25,7 +25,7 @@ RX or TX or BACK.
 wil make things better , enjoy this Beta version .
 
 
-for making a Arduflipper one Version 1.01 ,
+for making a LopenProject Version 1.01 ,
 
 what do you need !
 
